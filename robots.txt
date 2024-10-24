@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://pironelo.github.io/sitemap/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/ylL/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/LmY/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/Arn/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/VyJ/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/ZtS/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/LYk/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/dih/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/yfJ/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/KDf/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/Itp/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/Blo/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/djI/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/nqe/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/CWY/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/icB/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/nMZ/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/BnI/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/Hyv/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/neq/sitemap_index.pironelo
+Sitemap: https://pironelo.github.io/dpR/sitemap_index.pironelo
